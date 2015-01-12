@@ -1,0 +1,24 @@
+{
+  "name": "karma-test-sandbox",
+  "version": "1.0.0",
+  "description": "Test sandbox environment for easy setUp and tearDown with Karma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eBay-European-Product-Development/karma-test-sandbox.git"
+  },
+  "keywords": [
+    "karma",
+    "test",
+    "sandbox"
+  ],
+  "author": "rscheibinger@ebay.com",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/eBay-European-Product-Development/karma-test-sandbox/issues"
+  },
+  "homepage": "https://github.com/eBay-European-Product-Development/karma-test-sandbox"
+}

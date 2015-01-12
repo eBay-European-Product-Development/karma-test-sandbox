@@ -1,0 +1,23 @@
+{
+  "name": "karma-test-sandbox",
+  "version": "0.0.0",
+  "authors": [
+    "Radoslaw Scheibinger <rscheibinger@ebay.com>"
+  ],
+  "description": "Test sandbox makes easy to setUp and tearDown your karma tests with injected html fixtures",
+  "main": "src/index.js",
+  "keywords": [
+    "karma",
+    "test",
+    "sandbox"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/eBay-European-Product-Development/karma-test-sandbox",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
