@@ -1,6 +1,6 @@
 {
   "name": "karma-test-sandbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test sandbox environment for easy setUp and tearDown with Karma",
   "main": "src/index.js",
   "scripts": {
